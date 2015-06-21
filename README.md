@@ -1,4 +1,4 @@
-# GettingCleaningData
+# README for run_analysis.R
 
 This script uses data from the Human Activity Recognition Via Smartphones Dataset.  This dataset contains data collected from volunteers who wore the Samsung Galaxy S smartphone while performing various activities.  Data was collected from the the accelerometers within the Samsung Galaxy S smartphone. 
 
