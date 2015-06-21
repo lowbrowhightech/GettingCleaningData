@@ -95,5 +95,7 @@ names(FinalAvg) <- names(Meansholder)
 FinalAvg$Subject_Number <- round(FinalAvg$Subject_Number,0)
 FinalAvg$Activity_Class <- NULL
 
+return(FinalAvg)
+
 # Creating a file of the final data frame to submit for grading
-write.table(FinalAvg, file = "./run_analysis_final_table.csv", row.name=FALSE)
+# write.table(FinalAvg, file = "./GettingCleaningData/run_analysis.txt", row.name=FALSE)
